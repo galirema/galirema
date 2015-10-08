@@ -1,8 +1,7 @@
 # galirema
-__Galicia Recursos Mariños__
+__Galicia Marine Resources__
 
-La actividad de aprovechamiento de los recursos marinos de Galicia tiene una serie de referencias en internet, aportadas por los distintos agentes que participan en esta actividad económica, principalmente las administraciones publicas que tienen competencia sobre ella.
+The activity of exploitation of marine resources of Galicia has a number of references on the Internet, provided by the different actors involved in this economic activity, mainly public administrations that have jurisdiction over it.
 
-Estas referencias abarcan desde la planificación anual de la actividad de explotación del recurso, pasando por la descrición de las zonas costeras de producción y las estadisticas detalladas de la primera venta de los productos pesqueros.
-
+These references ranging from the annual activity planning of resource exploitation, through the coastal descricion production and detailed statistics of the first sale of fishery products.
 
