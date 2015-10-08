@@ -1,6 +1,6 @@
 # galirema
 
-__Galicia Recursos Mariños_
+__Galicia Recursos Mariños__
 
 A actividade de aproveitamento dos recursos mariños de Galicia ten unha serie de referencias en internet, achegadas polos distintos axentes que participan nesta actividade económica, principalmente as administracións publicas que teñen competencia sobre ela.
 
