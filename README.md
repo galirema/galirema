@@ -1,5 +1,5 @@
 # galirema
-## Galicia Marine Resources [^1]
+## Galicia Marine Resources 
 
 The activity of exploitation of marine resources of Galicia has a number of references on the Internet, provided by the different actors involved in this economic activity, mainly public administrations that have jurisdiction over it.
 
@@ -17,5 +17,4 @@ There are sources that the information they contain can be treated directly as p
 
 The result is a database that allows access to existing information on marine resources of Galicia
 
-
-[^1] Translated from Spanish by Google Translate
+* Translated from Spanish by Google Translate
