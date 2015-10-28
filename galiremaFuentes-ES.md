@@ -21,16 +21,16 @@
 
 
 #### Recurso
-* Son las fuentes que nos dan información de las areas del territorio donde se realiza la explotación de las especies-recurso y que están definidas por las normas de explotación.
-	* __Pesca de Galicia__ ([Planes de Explotación][]): en cada plan anual aprobado determina a que especies se refiere y las zonas concretas de la galicia costera tienen efecto las normas del plan y no las normas generales.  
+* Son las fuentes que nos dan información de las áreas del territorio donde se realiza la explotación de las especies-recurso y que están definidas por las normas de explotación.
+	* __Pesca de Galicia__ ([Planes de Explotación][]): en cada plan anual aprobado determina a que especies se refiere y las zonas concretas de la Galicia costera tienen efecto las normas del plan y no las normas generales.  
 	* __INTECMAR__: El "_Instituto Tecnoloxico para o control do medio mariño de Galicia_" (<http://www.intecmar.org/>), realiza un seguimiento de las condiciones de la costa  gallega para informar de los distintos parámetros que determinan la salubridad de las especies aprovechadas para consumo humano.  
-	* __Sigremar__: Es una plataforma [SIG][] de la administración autonómica en donde estan localizadas las zonas explotadas en las aguas de jurisdicición de la Comunidad Autónoma de Galicia.  
+	* __Sigremar__: Es una plataforma [SIG][] de la administración autonómica en donde están localizadas las zonas explotadas en las aguas de jurisdicción de la Comunidad Autónoma de Galicia.  
 
 
 #### Resultados
 * Los resultados del manejo de los recursos costeros los obtenemos de la primera venta en la lonja.
-	+ __Pesca de Galicia__ ([Estadísticas][]): Las notas de primera venta son un elemento básico para el segumiento de la actividad pesquera. La UE obliga a los estados miembros el seguimiento de estas notas y de una manera pública en internet. Este enlace permite la ralización de consultas sobre estas notas.  
-	+ __Pesca de Galicia__ ([Descargas][]): Es un enlace reciente del seguimiento de las notas de venta en el que se puede descargar la actividad anual de primera venta con un nivel de desagregación de venta por dia en una lonja. Es el único repositorio público en el de el ciudadano tiene aceso a datos tratables sin necesidad de un tratamiento previo. Los datos se pueden descargar en formato _csv_ o _xml_.  
+	+ __Pesca de Galicia__ ([Estadísticas][]): Las notas de primera venta son un elemento básico para el seguimiento de la actividad pesquera. La UE obliga a los estados miembros el seguimiento de estas notas y de una manera pública en internet. Este enlace permite la realización de consultas sobre estas notas.  
+	+ __Pesca de Galicia__ ([Descargas][]): Es un enlace reciente del seguimiento de las notas de venta en el que se puede descargar la actividad anual de primera venta con un nivel de desagregación de venta por día en una lonja. Es el único repositorio público en el de el ciudadano tiene acceso a datos tratables sin necesidad de un tratamiento previo. Los datos se pueden descargar en formato _csv_ o _xml_.  
 
 ### No oficiales
 
