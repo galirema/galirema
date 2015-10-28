@@ -1,0 +1,44 @@
+# Galirema
+
+## Las fuentes de información
+
+### Oficiales
+
+* Las fuentes que son propiedad de la administración pública y gestionadas por ella o las empresas contratadas para tal fin.
+
+* Estas fuentes aportan la información oficial que existe en la red
+
+* Las fuentes las agrupamos en los siguientes apartados:
+	+ Planificación
+	+ Recurso
+	+ Resultados
+
+
+#### Planificación
+* Son las fuentes que publican los planes de gestión anuales
+	* __DOG__: Publica anualmente bajo el rango legislativo de orden el Plan general de explotación marisquera.  
+	+ __Pesca de Galicia__: Es url de la ["_Plataforma Tecnolóxica da Pesca_"][] que entre otros servicios publica desde 2008 los planes anuales en detalle aprobados por cada plan general de explotación marisquera. Los planes vigentes están publicados en siguiente enlace <http://www.pescadegalicia.com/PlanesExp/>  
+
+
+#### Recurso
+* Son las fuentes que nos dan información de las areas del territorio donde se realiza la explotación de las especies-recurso y que están definidas por las normas de explotación.
+	* __Pesca de Galicia__ ([Planes de Explotación][]): en cada plan anual aprobado determina a que especies se refiere y las zonas concretas de la galicia costera tienen efecto las normas del plan y no las normas generales.  
+	* __INTECMAR__: El "_Instituto Tecnoloxico para o control do medio mariño de Galicia_" (<http://www.intecmar.org/>), realiza un seguimiento de las condiciones de la costa  gallega para informar de los distintos parámetros que determinan la salubridad de las especies aprovechadas para consumo humano.  
+	* __Sigremar__: Es una plataforma [SIG][] de la administración autonómica en donde estan localizadas las zonas explotadas en las aguas de jurisdicición de la Comunidad Autónoma de Galicia.  
+
+
+#### Resultados
+* Los resultados del manejo de los recursos costeros los obtenemos de la primera venta en la lonja.
+	+ __Pesca de Galicia__ ([Estadísticas][]): Las notas de primera venta son un elemento básico para el segumiento de la actividad pesquera. La UE obliga a los estados miembros el seguimiento de estas notas y de una manera pública en internet. Este enlace permite la ralización de consultas sobre estas notas.  
+	+ __Pesca de Galicia__ ([Descargas][]): Es un enlace reciente del seguimiento de las notas de venta en el que se puede descargar la actividad anual de primera venta con un nivel de desagregación de venta por dia en una lonja. Es el único repositorio público en el de el ciudadano tiene aceso a datos tratables sin necesidad de un tratamiento previo. Los datos se pueden descargar en formato _csv_ o _xml_.  
+
+### No oficiales
+
+* Son fuentes de información aportada por iniciativas particulares, pueden ser personales o corporativas y pueden aportar informaciones sobre su actividad en el recurso, o análisis del mismo
+
+
+ ["_Plataforma Tecnolóxica da Pesca_"]: http://www.pescadegalicia.com/
+ [SIG]: http://goo.gl/pdO6x
+ [Estadísticas]: http://www.pescadegalicia.com/estadisticas.html
+ [Descargas]: http://www.pescadegalicia.com/gl/descargas
+ [Planes de Explotación]: http://www.pescadegalicia.com/PlanesExp/
