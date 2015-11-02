@@ -2,6 +2,8 @@
 
 ## Las fuentes de información
 
+El presente documento solo tiene una finalidad introductora, la ampliación de la información sobre los aspectos documentales del proyecto __galirema__ se encontraran en la wiki de este repositorio.
+
 ### Oficiales
 
 * Las fuentes que son propiedad de la administración pública y gestionadas por ella o las empresas contratadas para tal fin.
