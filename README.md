@@ -17,4 +17,4 @@ There are sources that the information they contain can be treated directly as p
 
 The result is a database that allows access to existing information on marine resources of Galicia
 
-* Translated from Spanish by Google Translate
+* _Translated from Spanish by Google Translate_
