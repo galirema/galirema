@@ -34,7 +34,7 @@ El presente documento solo tiene una finalidad introductora, la ampliación de l
 	+ __Pesca de Galicia__ ([Estadísticas][]): Las notas de primera venta son un elemento básico para el seguimiento de la actividad pesquera. La UE obliga a los estados miembros el seguimiento de estas notas y de una manera pública en internet. Este enlace permite la realización de consultas sobre estas notas.  
 	+ __Pesca de Galicia__ ([Descargas][]): Es un enlace reciente del seguimiento de las notas de venta en el que se puede descargar la actividad anual de primera venta con un nivel de desagregación de venta por día en una lonja. Es el único repositorio público en el de el ciudadano tiene acceso a datos que pueden ser utilizados sin necesidad de un tratamiento previo. Los datos se pueden descargar en formato _csv_ o _xml_.  
 
-### No oficiales
+### Otras fuentes 
 
 * Son fuentes de información aportada por iniciativas particulares, pueden ser personales o corporativas y pueden aportar informaciones sobre su actividad en el recurso, o análisis del mismo
 
