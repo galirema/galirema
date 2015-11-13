@@ -27,6 +27,7 @@ El presente documento solo tiene una finalidad introductora, la ampliación de l
 	* __Pesca de Galicia__ ([Planes de Explotación][]): en cada plan anual aprobado determina a que especies se refiere y las zonas concretas de la Galicia costera tienen efecto las normas del plan y no las normas generales.  
 	* __INTECMAR__: El "_Instituto Tecnoloxico para o control do medio mariño de Galicia_" (<http://www.intecmar.org/>), realiza un seguimiento de las condiciones de la costa  gallega para informar de los distintos parámetros que determinan la salubridad de las especies aprovechadas para consumo humano.  
 	* __Sigremar__: Es una plataforma [SIG][] de la administración autonómica en donde están localizadas las zonas explotadas en las aguas de jurisdicción de la Comunidad Autónoma de Galicia.  
+	* __DOG__: Cuando legisla sobre las especies comercializadas, los métodos de capturas permitidos, etc.. 
 
 
 #### Resultados
