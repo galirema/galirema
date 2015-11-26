@@ -18,7 +18,7 @@ El presente documento solo tiene una finalidad  de introducirnos en el proyecto,
 
 #### Planificación
 * Son las fuentes que publican los planes de gestión anuales
-	* __DOG__: Publica anualmente bajo el rango legislativo de orden el Plan general de explotación marisquera.  
+	* __DOG__: Publica anualmente bajo el rango legislativo de orden el __Plan general de explotación marisquera__.  
 	+ __Pesca de Galicia__: Es url de la ["_Plataforma Tecnolóxica da Pesca_"][] que entre otros servicios publica desde 2008 los planes anuales en detalle aprobados por cada plan general de explotación marisquera. Los planes vigentes están publicados en siguiente enlace <http://www.pescadegalicia.com/PlanesExp/>  
 
 
