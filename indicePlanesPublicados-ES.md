@@ -1,7 +1,5 @@
 # Plan general de explotación marisquera
  
-___Plan Xeral de Explotación Marisqueira___  __(Plan General de Explotación Marisquera)__
- 
 El __Plan General de Explotación Marisquera__ recoge todos los planes de explotación de un año y se publica al inicio de cada año.
  
 Este modelo de aprovechamiento del recurso se inició en el año 1992 mediante el decreto "_59/1992, del 6 de marzo, por el que se regula la extracción de las especies marisqueras y la recolección de algas en las aguas de Galicia._"
