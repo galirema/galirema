@@ -49,8 +49,8 @@ O presente documento só ten unha finalidade  de introducirnos no proxecto, a am
 * Son fontes de información achegada por iniciativas particulares, poden ser persoais ou corporativas e poden achegar informacións sobre a súa actividade no recurso, ou análise do mesmo
 
 
- ["_Plataforma *Tecnolóxica dá Pesca_"]: http://www.pescadegalicia.com/
- [*SIG]: http://goo.gl/pdo6x
+ ["_Plataforma Tecnolóxica dá Pesca_"]: http://www.pescadegalicia.com/
+ [SIG]: http://goo.gl/pdo6x
  [Estatísticas]: http://www.pescadegalicia.com/estadisticas.html
  [Descargas]: http://www.pescadegalicia.com/gl/descargas
  [Plans de Explotación]: http://www.pescadegalicia.com/planesexp/
