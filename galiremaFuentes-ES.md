@@ -2,7 +2,7 @@
 
 ## Las fuentes de información
 
-El presente documento solo tiene una finalidad introductora, la ampliación de la información sobre los aspectos documentales del proyecto __galirema__ se encontraran en la wiki de este repositorio.
+El presente documento solo tiene una finalidad  de introducirnos en el proyecto, la ampliación de la información sobre los aspectos documentales de __galirema__ se encontraran en la wiki de este repositorio.
 
 ### Oficiales
 
