@@ -3,7 +3,7 @@
 
 ## As fontes de información
 
-O presente documento só ten unha finalidade  de introducirnos no proxecto, a ampliación da información sobre os aspectos documentais de __*galirema__ atopásense na wiki deste repositorio.
+O presente documento só ten unha finalidade  de introducirnos no proxecto, a ampliación da información sobre os aspectos documentais de __galirema__ atopásense na wiki deste repositorio.
 
 
 ### Oficiais
