@@ -16,6 +16,7 @@ El presente listado de los planes anuales sigue un orden inverso a la anualidad 
 
 |Plan General|DOG Año Num.| Fecha de publicación|
 |:-----------|:----------:|:-------------------:|
+[2016][] | dog2015.248 | (30/12/2015)
 [2015][]|dog2014.250|(31/12/2014)
 [2014][]|dog2013.249|(31/12/2013)
 [2013][]|dog2012.248|(31/12/2012)
@@ -44,6 +45,7 @@ El presente listado de los planes anuales sigue un orden inverso a la anualidad 
 
 
 
+ [2016]: http://galiciamarinheira.drupalgardens.com/content/plan-general-de-explotaci%C3%B3n-marisquera-2016
  [2015]: http://galiciamarinheira.drupalgardens.com/content/plan-general-de-explotaci%C3%B3n-marisquera-2015
  [2014]: http://galiciamarinheira.drupalgardens.com/content/plan-xeral-de-explotaci%C3%B3n-marisqueira-2014
  [2013]: http://galiciamarinheira.drupalgardens.com/content/plan-general-de-explotaci%C3%B3n-marisquera-2013
