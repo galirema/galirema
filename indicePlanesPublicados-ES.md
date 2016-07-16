@@ -45,12 +45,12 @@ El presente listado de los planes anuales sigue un orden inverso a la anualidad 
 
 
 
- [2016]: http://galiciamarinheira.drupalgardens.com/content/plan-general-de-explotaci%C3%B3n-marisquera-2016
- [2015]: http://galiciamarinheira.drupalgardens.com/content/plan-general-de-explotaci%C3%B3n-marisquera-2015
- [2014]: http://galiciamarinheira.drupalgardens.com/content/plan-xeral-de-explotaci%C3%B3n-marisqueira-2014
- [2013]: http://galiciamarinheira.drupalgardens.com/content/plan-general-de-explotaci%C3%B3n-marisquera-2013
- [2012]: http://galiciamarinheira.drupalgardens.com/content/plan-general-de-explotaci%C3%B3n-marisquera-2012
- [2011]: http://galiciamarinheira.drupalgardens.com/content/plan-general-de-explotaci%C3%B3n-marisquera-2011
+ [2016]: http://galirema.comunidadeozulo.org/content/plan-general-de-explotaci%C3%B3n-marisquera-2016
+ [2015]: http://galirema.comunidadeozulo.org/content/plan-general-de-explotaci%C3%B3n-marisquera-2015
+ [2014]: http://galirema.comunidadeozulo.org/content/plan-xeral-de-explotaci%C3%B3n-marisqueira-2014
+ [2013]: http://galirema.comunidadeozulo.org/content/plan-general-de-explotaci%C3%B3n-marisquera-2013
+ [2012]: http://galirema.comunidadeozulo.org/content/plan-general-de-explotaci%C3%B3n-marisquera-2012
+ [2011]: http://galirema.comunidadeozulo.org/content/plan-general-de-explotaci%C3%B3n-marisquera-2011
  [2010]: http://www.xunta.es/dog/Publicados/2009/20091231/Anuncio3BF4A_es.html
  [2009]: http://www.xunta.es/dog/Publicados/2008/20081231/Anuncio500E6_es.html
  [2008]: http://www.xunta.es/dog/Publicados/2008/20080103/AnuncioD4E_es.html
@@ -66,9 +66,9 @@ El presente listado de los planes anuales sigue un orden inverso a la anualidad 
  [1998]: http://www.xunta.es/dog/Publicados/1998/19980108/Anuncio23BE_es.html
  [1997]: http://www.xunta.es/dog/Publicados/1997/19970103/AnuncioFC1E_es.html
  [1996]: http://www.xunta.es/dog/Publicados/1996/19960102/Anuncio211A_es.html
- [1995]: http://galiciamarinheira.drupalgardens.com/content/plan-general-de-explotaci%C3%B3n-marisquera-1995
- [1994]: http://galiciamarinheira.drupalgardens.com/content/plan-general-de-explotaci%C3%B3n-marisqueira-1994
- [1993]: http://galiciamarinheira.drupalgardens.com/content/plan-general-de-explotaci%C3%B3n-marisqueira-1993
- [1992]: http://galiciamarinheira.drupalgardens.com/content/plan-general-explotaci%C3%B3n-marisqueira-1992
+ [1995]: http://galirema.comunidadeozulo.org/content/plan-general-de-explotaci%C3%B3n-marisquera-1995
+ [1994]: http://galirema.comunidadeozulo.org/content/plan-general-de-explotaci%C3%B3n-marisqueira-1994
+ [1993]: http://galirema.comunidadeozulo.org/content/plan-general-de-explotaci%C3%B3n-marisqueira-1993
+ [1992]: http://galirema.comunidadeozulo.org/content/plan-general-explotaci%C3%B3n-marisqueira-1992
  [Decreto 059/1992]: http://www.xunta.es/dog/Publicados/1992/19920316/Anuncio627E_es.pdf
  [Decreto 059/1992gl]: http://www.xunta.es/dog/Publicados/1992/19920316/Anuncio1C9A6_gl.pdf
