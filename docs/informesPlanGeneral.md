@@ -1,6 +1,6 @@
 # Indices de Informes Plan general de Explotación
 
-* EL objetivo de esta página es el de publicar los informes que describen las características del __Plan General de Explotación marisquera__.
+* El objetivo de esta página es el de publicar los informes que describen las características del __Plan General de Explotación marisquera__.
 
 * La administración pesquera de Galicia publica cada año en el Diario Oficial de Galicia el plan general que apueba las distintas normas de explotación de los recursos biológicos existentes en las aguas marinas de su competencia.
 
