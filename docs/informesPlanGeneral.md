@@ -1,8 +1,11 @@
-# Indices de Informes Plan general de Explotación
+# Índices de Informes Plan general de Explotación
 
-* El objetivo de esta página es el de publicar los informes que describen las características del __Plan General de Explotación marisquera__.
+* EL objetivo de esta página es el de publicar los informes que describen las características del __Plan General de Explotación marisquera__.
 
-* La administración pesquera de Galicia publica cada año en el Diario Oficial de Galicia el plan general que apueba las distintas normas de explotación de los recursos biológicos existentes en las aguas marinas de su competencia.
+* La administración pesquera de Galicia publica cada año en el Diario Oficial de Galicia el plan general que aprueba las distintas normas de explotación de los recursos biológicos existentes en las aguas marinas de su competencia.
 
-* El modelo de gestión iniciado en el año 1992 flexibiliza el sistema pero multiplica el número de normas de explotaciónconretadas a especies, territorios y épocas de captura.
+* El modelo de gestión iniciado en el año 1992 flexibiliza el sistema pero multiplica el número de normas de explotación concretadas a especies, territorios y épocas de captura.
 
+* Dentro de un plan general los artículos que contienen las normas generales para las zonas de libre marisqueo no sujetas a algún plan específico y el artículo a otros crustáceos son de elaboración exclusiva de la administración pesquera.
+
+* Las normas incluidas en los artículos que aprueban los distintos tipos de plan son presentadas por las entidades del sector (cofradías de pescadores, agrupaciones de mariscadores, cooperativas y empresas) que la administración pesquera supervisa y posteriormente aprueba.
