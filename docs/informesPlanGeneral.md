@@ -9,3 +9,12 @@
 * Dentro de un plan general los artículos que contienen las normas generales para las zonas de libre marisqueo no sujetas a algún plan específico y el artículo a otros crustáceos son de elaboración exclusiva de la administración pesquera.
 
 * Las normas incluidas en los artículos que aprueban los distintos tipos de plan son presentadas por las entidades del sector (cofradías de pescadores, agrupaciones de mariscadores, cooperativas y empresas) que la administración pesquera supervisa y posteriormente aprueba.
+
+* Los datos que contienen las distintas normas anuales contenidas en la orden del plan general son las que sirven para la elaboración de los informes aquí publicados.
+
+## Informes anuales.
+
+
+1. [Plan general de explotación 2016](info-pexma2016c.html).
+
+1. Plan general de explotación 2015. 
