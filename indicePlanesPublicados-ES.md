@@ -42,7 +42,8 @@ El presente listado de los planes anuales sigue un orden inverso a la anualidad 
 [1994][]|dog1993.251|(30/12/1993)
 [1993][]|dog1993.003|(07/01/1993)
 [1992][]|dog1992.124|(30/06/1992)
-[Decreto 059/1992][]|dog1992.052|(16/03/1992)
+[Decreto 059/1992][]|dog1992.052|(16/03/1992)  
+[Decreto 059/1992gl]| DOG en galego|(16/03/1992)
 
 
 
