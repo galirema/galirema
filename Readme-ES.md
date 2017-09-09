@@ -16,5 +16,5 @@ El objetivo del presente proyecto es la búsqueda de estas fuentes de informaci�
 
 Existen fuentes que la información que contienen puede ser tratada directamente tal como se presenta, esta fuente solo esta reseñada.
 
-El resultado es una base de datos que permita aceder a la información existente sobre los recursos marinos de Galicia
+El resultado es una base de datos que permita acceder a la información existente sobre los recursos marinos de Galicia
 
