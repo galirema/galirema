@@ -8,7 +8,7 @@ Estas referencias abarcan desde la planificación anual de la actividad de explo
 
 En 1992 se adopta un sistema de gestión para los recursos costeros próximos basado en una planificación anual, el marisqueo principalmente. Este modelo permite una flexibilidad en el aprovechamiento que le permita adaptarse a las necesidades del mercado y la integración de nuevas especies y modalidades de captura en el sistema.
 
-La flexibilidad del sistema hace que coincidan varios planes de gestión en una zona concreta en función de la titularidad del territorio, de las especies explotadas y que los distintos asentamientos de una población biologica tengan normas de gestión diferentes.
+La flexibilidad del sistema hace que coincidan varios planes de gestión en una zona concreta en función de la titularidad del territorio, de las especies explotadas y que los distintos asentamientos de una población biológica tengan normas de gestión diferentes.
 
 La ventaja, es que disponemos fuentes de información para poder medir esta variabilidad.
 
