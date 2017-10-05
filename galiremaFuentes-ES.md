@@ -39,6 +39,10 @@ El presente documento solo tiene una finalidad  de introducirnos en el proyecto,
 
 * Son fuentes de información aportada por iniciativas particulares, pueden ser personales o corporativas y pueden aportar informaciones sobre su actividad en el recurso, o análisis del mismo
 
+* __FAO__: La [lista ASFIS de especies][] para los fines de estadísticas de pesca 
+
+* __MAPAMA__: [Denominaciones Comerciales][] que es la transposición a la legislación española la lista de especies comerciales reconocidas por la UE y que esta basada en la definida por la FAO y que recoge las denominaciones en todos los idiomas del estado español.
+
 
  ["_Plataforma Tecnolóxica da Pesca_"]: http://www.pescadegalicia.com/
  [SIG]: http://goo.gl/pdO6x
@@ -46,3 +50,6 @@ El presente documento solo tiene una finalidad  de introducirnos en el proyecto,
  [Descargas]: http://www.pescadegalicia.com/gl/descargas
  [Planes de Explotación]: http://www.pescadegalicia.com/PlanesExp/
  [DOG]: https://github.com/galirema/galirema/wiki/DiarioOficialGalicia
+ [lista ASFIS de especies]: http://www.fao.org/fishery/collection/asfis/es
+ [Denominaciones Comerciales]: http://www.mapama.gob.es/es/pesca/temas/mercados-economia-pesquera/2Denomin_comerc.aspx#
+  
