@@ -18,3 +18,10 @@
   
 * Los nombres definitivos de la base de datos, tablas y campos los dará cada usuario segun su criterio.
 * Para este repositorio la base de datos la denominaremos como "galin.sqlite"
+
+## Indice de Tablas en el repositorio galin.sqlite
+
+### Plan General de Explotación y Planes Específicos
+
+1. [pexma2017.csv](pexma2017.csv)
+
