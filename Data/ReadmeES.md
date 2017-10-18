@@ -17,7 +17,10 @@
   * "___ide plan explotación___",
   
 * Los nombres definitivos de la base de datos, tablas y campos los dará cada usuario segun su criterio.
-* Para este repositorio la base de datos la denominaremos como "galin.sqlite"
+* Para este repositorio la base de datos la denominaremos como _"galin.sqlite"_
+* La primera linea corresponde al nombre de los campos en _"galin.sqlite"_:
+ * "tipo_Plan","entidad_promotora","conjunto","modalidad_captura","especies_objetivo","zona_Trabajo","dias_maximos","epoca_Trabajo","puntos_control","zonas_trabajo_detallada","ide_plan_explotación"
+
 
 ## Indice de Tablas en el repositorio galin.sqlite
 
