@@ -15,7 +15,9 @@
 ## Informes anuales.
 
 
-1. [Plan general y específicos 2017](infoPlanGeneralEspecifico2017c.html). Próxima publicación)
+1. [Plan general y específicos 2018](InfoPlanGeneralEspecifico2018.html). (Modelo de Informe corto.)
+
+1. [Plan general y específicos 2017](infoPlanGeneralEspecifico2017c.html). (Modelo de Informe corto.)
 
 1. [Plan general de explotación 2016](info-pexma2016c.html). (Modelo de informe corto.)
 
