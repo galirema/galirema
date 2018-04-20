@@ -4,7 +4,7 @@
 * Los archivos de datos estan en formato __CSV__ para que puedan ser importados con facilidad por el usuario
 * Cada archivo que contienen los datos de planificación anual contiene el nombre "__pexma__" (___Plan de EXplotación MArisquera___) seguido de los guarismos de la ___anualidad___ correspondiente.
 * Las contenidos de cada plan son:
-  * "___tipo de Plan___",
+  * "___tipo de Plan___", [mas detalle](https://github.com/galirema/galirema/wiki/TipodePlan)
   * "___entidad promotora___",
   * "___individual/conjunto___",
   * "___modalidad de captura___",
