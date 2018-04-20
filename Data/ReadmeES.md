@@ -16,6 +16,7 @@
   * "___zonas de trabajo detallada___",
   * "___ide plan explotación___",
   
+* En la wiki del proyecto Galirema ampliamos la [documentación de estos aspectos](https://github.com/galirema/galirema/wiki/RepositorioGalirema).
 * Los nombres definitivos de la base de datos, tablas y campos los dará cada usuario segun su criterio.
 * Para este repositorio la base de datos la denominaremos como _"galin.sqlite"_
 * La primera linea corresponde al nombre de los campos en _"galin.sqlite"_:
