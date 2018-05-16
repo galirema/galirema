@@ -5,7 +5,7 @@
 * Cada archivo que contienen los datos de planificación anual contiene el nombre "__pexma__" (___Plan de EXplotación MArisquera___) seguido de los guarismos de la ___anualidad___ correspondiente.
 * Las contenidos de cada plan son:
   * "___tipo de Plan___", [mas detalle en la wiki](https://github.com/galirema/galirema/wiki/TipodePlan)
-  * "___entidad promotora___",
+  * "___entidad promotora___", [mas detalle en la wiki](https://github.com/galirema/galirema/wiki/EntidadPromotora)
   * "___individual/conjunto___",
   * "___modalidad de captura___",
   * "___especies objetivo del Plan___",
