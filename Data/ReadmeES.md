@@ -7,7 +7,7 @@
   * "___tipo de Plan___", [mas detalle en la wiki](https://github.com/galirema/galirema/wiki/TipodePlan)
   * "___entidad promotora___", [mas detalle en la wiki](https://github.com/galirema/galirema/wiki/EntidadPromotora)
   * "___conjunto___", [mas detalle en la wiki](https://github.com/galirema/galirema/wiki/IndividualConjunto)
-  * "___modalidad de captura___", 
+  * "___modalidad de captura___", [mas detalle en la wiki](https://github.com/galirema/galirema/wiki/ModalidadCaptura)
   * "___especies objetivo del Plan___",
   * "___zona de Trabajo___",
   * "___días máximos de trabajo___",
