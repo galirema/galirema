@@ -44,9 +44,14 @@ O presente documento só ten unha finalidade  de introducirnos no proxecto, a am
 	+ __Pesca de Galicia__ ([Estatísticas][]): As notas de primeira venda son un elemento básico para o seguimento da actividade pesqueira. A UE obriga aos estados membros o seguimento destas notas e dunha maneira pública na internet. Esta ligazón permite a realización de consultas sobre estas notas.  
 	+ __Pesca de Galicia__ ([Descargas][]): É unha ligazón recente do seguimento das notas de venda no que se pode descargar a actividade anual de primeira venda cun nivel de agregación de venda por día nunha lonxa. É o único repositorio público no do cidadán ten acceso a datos que poden ser utilizados sen necesidade dun tratamento previo. Os datos pódense descargar en formato _csv_ ou _xml_.  
 
-### Outras fontes 
+### Outras fontes
 
-* Son fontes de información achegada por iniciativas particulares, poden ser persoais ou corporativas e poden achegar informacións sobre a súa actividade no recurso, ou análise do mesmo
+* Son fontes de información proporcionadas por iniciativas particulares, poden ser persoais ou corporativas e poden proporcionar información sobre a súa actividade no recurso ou a súa análise
+
+* __FAO__: A [lista de especies](http://www.fao.org/fishery/collection/asfis/es) ASFIS para os efectos das estatísticas pesqueiras
+
+* __MAPAMA__: [Denominacións Comerciais](http://www.mapama.gob.es/es/pesca/temas/mercados-economia-pesquera/2Denomin_comerc.aspx#), que é a transposición á lexislación española da lista de especies comerciais recoñecida pola UE e que está baseada na definida pola FAO e que inclúe as denominacións en todas as linguas do estado español.
+
 
 
  ["_Plataforma Tecnolóxica dá Pesca_"]: http://www.pescadegalicia.com/
