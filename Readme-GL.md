@@ -18,3 +18,4 @@ Existen fontes que a información que conteñen pode ser tratada directamente ta
 
 O resultado é unha base de datos que permita aceder á información existente sobre os recursos mariños de Galicia
 
+A documentación de Galirema atópase no [wiki](https://github.com/galirema/galirema/wiki) unido ao proxecto.
