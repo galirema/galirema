@@ -16,4 +16,6 @@ L'objectif de ce projet est la recherche de ces sources d'information, l'évalua
 
 Il ya des sources que l'information qu'ils contiennent peuvent être traitées directement comme présenté, cette source est décrite seulement.
 
-Le résultat est une base de données qui permet l'accès à l'information existante sur les ressources marines de la Galice
+Le résultat est une base de données qui permet l'accès à l'information existante sur les ressources marines de la Galice.
+
+La documentation de Galirema se trouve dans le [wiki](https://github.com/galirema/galirema/wiki) attaché au projet.
