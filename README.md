@@ -17,4 +17,6 @@ There are sources that the information they contain can be treated directly as p
 
 The result is a database that allows access to existing information on marine resources of Galicia
 
+The Galirema documentation is found in the [wiki](https://github.com/galirema/galirema/wiki) attached to the project
+
 * _Translated from Spanish by Google Translate_
