@@ -9,12 +9,12 @@
   * "___conjunto___", [mas detalle en la wiki](https://github.com/galirema/galirema/wiki/IndividualConjunto)
   * "___modalidad de captura___", [mas detalle en la wiki](https://github.com/galirema/galirema/wiki/ModalidadCaptura)
   * "___especies objetivo del Plan___", [mas detalle en la wiki](https://github.com/galirema/galirema/wiki/EspeciesCaptura)
-  * "___zona de Trabajo___",
-  * "___días máximos de trabajo___",
-  * "___época de Trabajo___",
-  * "___puntos de control___",
-  * "___zonas de trabajo detallada___",
-  * "___ide plan explotación___",
+  * "___zona de Trabajo___", [mas detalle en la wiki](https://github.com/galirema/galirema/wiki/ZonaTrabajo)
+  * "___días máximos de trabajo___", [mas detalle en la wiki](https://github.com/galirema/galirema/wiki/DiasMaxCaptura)
+  * "___época de Trabajo___", [mas detalle en la wiki](https://github.com/galirema/galirema/wiki/EpocaCaptura)
+  * "___puntos de control___", [mas detalle en la wiki](https://github.com/galirema/galirema/wiki/PuntosControl)
+  * "___zonas de trabajo detallada___", [mas detalle en la wiki](https://github.com/galirema/galirema/wiki/SubzonasCaptura)
+  * "___ide plan explotación___", [mas detalle en la wiki](https://github.com/galirema/galirema/wiki/IdePlanExplotacion)
   
 * En la wiki del proyecto Galirema ampliamos la [documentación de estos aspectos](https://github.com/galirema/galirema/wiki/RepositorioGalirema).
 * Los nombres definitivos de la base de datos, tablas y campos los dará cada usuario segun su criterio.
