@@ -48,7 +48,7 @@ El presente documento solo tiene una finalidad  de introducirnos en el proyecto,
  [SIG]: https://goo.gl/glKrkM
  [Estadísticas]: http://www.pescadegalicia.com/estadisticas.html
  [Descargas]: http://www.pescadegalicia.gal/gl/descargas
- [Planes de Explotación]: http://www.pescadegalicia.com/PlanesExp/
+ [Planes de Explotación]: https://www.pescadegalicia.gal/PlanesExp/index.htm
  [DOG]: https://github.com/galirema/galirema/wiki/DiarioOficialGalicia
  [lista ASFIS de especies]: http://www.fao.org/fishery/collection/asfis/es
  [Denominaciones Comerciales]: http://www.mapama.gob.es/es/pesca/temas/mercados-economia-pesquera/2Denomin_comerc.aspx#
