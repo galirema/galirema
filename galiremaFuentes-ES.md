@@ -44,10 +44,10 @@ El presente documento solo tiene una finalidad  de introducirnos en el proyecto,
 * __MAPAMA__: [Denominaciones Comerciales][] que es la transposición a la legislación española la lista de especies comerciales reconocidas por la UE y que esta basada en la definida por la FAO y que recoge las denominaciones en todos los idiomas del estado español.
 
 
- ["_Plataforma Tecnolóxica da Pesca_"]: http://www.pescadegalicia.com/
- [SIG]: http://goo.gl/pdO6x
+ ["_Plataforma Tecnolóxica da Pesca_"]: http://www.pescadegalicia.gal/
+ [SIG]: https://goo.gl/glKrkM
  [Estadísticas]: http://www.pescadegalicia.com/estadisticas.html
- [Descargas]: http://www.pescadegalicia.com/gl/descargas
+ [Descargas]: http://www.pescadegalicia.gal/gl/descargas
  [Planes de Explotación]: http://www.pescadegalicia.com/PlanesExp/
  [DOG]: https://github.com/galirema/galirema/wiki/DiarioOficialGalicia
  [lista ASFIS de especies]: http://www.fao.org/fishery/collection/asfis/es
