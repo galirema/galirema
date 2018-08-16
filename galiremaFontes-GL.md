@@ -24,7 +24,7 @@ O presente documento só ten unha finalidade  de introducirnos no proxecto, a am
 * Son as fontes que publican os plans de xestión anuais
 
 	* __DOG__: Publica anualmente baixo o rango lexislativo de orde o __Plan xeral de explotación marisqueira__.  
-	+ __Pesca de Galicia__: É url da ["_Plataforma Tecnolóxica dá Pesca_"][] que entre outros servizos publica desde 2008 os plans anuais en detalle aprobados por cada plan xeral de explotación marisqueira. Os plans vixentes están publicados en seguinte ligazón <http://www.pescadegalicia.com/planesexp/>  
+	+ __Pesca de Galicia__: É url da ["_Plataforma Tecnolóxica dá Pesca_"][] que entre outros servizos publica desde 2008 os plans anuais en detalle aprobados por cada plan xeral de explotación marisqueira. Os plans vixentes están publicados en seguinte ligazón <https://www.pescadegalicia.gal/PlanesExp/index.htm>  
 
 
 #### Recurso
@@ -32,7 +32,7 @@ O presente documento só ten unha finalidade  de introducirnos no proxecto, a am
 * Son as fontes que nos dan información das áreas do territorio onde se realiza a explotación das especies-recurso e que están definidas polas normas de explotación.
 
 	* __Pesca de Galicia__ ([Plans de Explotación][]): en cada plan anual aprobado determina a que especies se refire e as zonas concretas da Galicia costeira teñen efecto as normas do plan e non as normas xerais.  
-	* __INTECMAR__: O "_Instituto Tecnoloxico para ou control do medio mariño de Galicia_" (<http://www.intecmar.org/>), realiza un seguimento das condicións da costa  galega para informar dos distintos parámetros que determinan a salubridade das especies aproveitadas para consumo humano.  
+	* __INTECMAR__: O "_Instituto Tecnoloxico para ou control do medio mariño de Galicia_" (<http://www.intecmar.gal/>), realiza un seguimento das condicións da costa  galega para informar dos distintos parámetros que determinan a salubridade das especies aproveitadas para consumo humano.  
 	* __Sigremar__: É unha plataforma [SIG][] da administración autonómica onde están localizadas as zonas explotadas nas augas de xurisdición da Comunidade Autónoma de Galicia.  
 	* __DOG__: Cando lexisla sobre as especies comercializadas, os métodos de capturas permitidos, etc.. 
 
@@ -54,8 +54,8 @@ O presente documento só ten unha finalidade  de introducirnos no proxecto, a am
 
 
 
- ["_Plataforma Tecnolóxica dá Pesca_"]: http://www.pescadegalicia.com/
- [SIG]: http://goo.gl/pdo6x
- [Estatísticas]: http://www.pescadegalicia.com/estadisticas.html
- [Descargas]: http://www.pescadegalicia.com/gl/descargas
- [Plans de Explotación]: http://www.pescadegalicia.com/planesexp/
+ ["_Plataforma Tecnolóxica dá Pesca_"]: https://www.pescadegalicia.gal/
+ [SIG]: https://goo.gl/glKrkM
+ [Estatísticas]: https://www.pescadegalicia.gal/estadisticas.html
+ [Descargas]: https://www.pescadegalicia.gal/gl/descargas
+ [Plans de Explotación]: https://www.pescadegalicia.gal/PlanesExp/index.htm
