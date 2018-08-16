@@ -19,13 +19,13 @@ El presente documento solo tiene una finalidad  de introducirnos en el proyecto,
 #### Planificación
 * Son las fuentes que publican los planes de gestión anuales
 	* [DOG][]: Publica anualmente bajo el rango legislativo de orden el __Plan general de explotación marisquera__.  
-	+ __Pesca de Galicia__: Es url de la ["_Plataforma Tecnolóxica da Pesca_"][] que entre otros servicios publica desde 2008 los planes anuales en detalle aprobados por cada plan general de explotación marisquera. Los planes vigentes están publicados en siguiente enlace <http://www.pescadegalicia.com/PlanesExp/>  
+	+ __Pesca de Galicia__: Es url de la ["_Plataforma Tecnolóxica da Pesca_"][] que entre otros servicios publica desde 2008 los planes anuales en detalle aprobados por cada plan general de explotación marisquera. Los planes vigentes están publicados en siguiente enlace <https://www.pescadegalicia.gal/PlanesExp/index.htm>  
 
 
 #### Recurso
 * Son las fuentes que nos dan información de las áreas del territorio donde se realiza la explotación de las especies-recurso y que están definidas por las normas de explotación.
 	* __Pesca de Galicia__ ([Planes de Explotación][]): en cada plan anual aprobado determina a que especies se refiere y las zonas concretas de la Galicia costera tienen efecto las normas del plan y no las normas generales.  
-	* __INTECMAR__: El "_Instituto Tecnoloxico para o control do medio mariño de Galicia_" (<http://www.intecmar.org/>), realiza un seguimiento de las condiciones de la costa  gallega para informar de los distintos parámetros que determinan la salubridad de las especies aprovechadas para consumo humano.  
+	* __INTECMAR__: El "_Instituto Tecnoloxico para o control do medio mariño de Galicia_" (<http://www.intecmar.gal/>), realiza un seguimiento de las condiciones de la costa  gallega para informar de los distintos parámetros que determinan la salubridad de las especies aprovechadas para consumo humano.  
 	* __Sigremar__: Es una plataforma [SIG][] de la administración autonómica en donde están localizadas las zonas explotadas en las aguas de jurisdicción de la Comunidad Autónoma de Galicia.  
 	* [DOG][]: Cuando legisla sobre las especies comercializadas, los métodos de capturas permitidos, etc.. 
 
