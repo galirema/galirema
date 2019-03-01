@@ -16,6 +16,7 @@ El presente listado de los planes anuales sigue un orden inverso a la anualidad 
 
 |Plan General|DOG Año Num.| Fecha de publicación|
 |:-----------|:----------:|:-------------------:|
+[2019][]|dog2018.248, dog2018.246|(31/12/2018), (27/12/2018)
 [2018][]|dog2017.246|(29/12/2017)
 [2017][]|dog2016.249|(30/12/2016)
 [2016][]|dog2015.248|(30/12/2015)
@@ -47,7 +48,7 @@ El presente listado de los planes anuales sigue un orden inverso a la anualidad 
 [Decreto 059/1992gl]| DOG en galego|(16/03/1992)
 
 
-
+ [2019]: http://www.galiciamarineira.info/content/planes-general-y-espec%C3%ADficos-2019
  [2018]: http://www.galiciamarineira.info/content/planes-general-y-espec%C3%ADficos-2018
  [2017]: http://www.galiciamarineira.info/content/planes-general-y-espec%C3%ADficos-2017
  [2016]: http://www.galiciamarineira.info/content/plan-general-de-explotaci%C3%B3n-marisquera-2016
