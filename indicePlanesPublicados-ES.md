@@ -16,7 +16,7 @@ El presente listado de los planes anuales sigue un orden inverso a la anualidad 
 
 |Plan General|DOG Año Num.| Fecha de publicación|Datos Abiertos|Galicia Mariñeira|Wiki Galirema|
 |:-----------|:----------:|:-------------------:|--------------|-----------------|-------------|
-[2019][]|dog2018.248, dog2018.246|(31/12/2018), (27/12/2018)|[2019.04.15](https://github.com/galirema/galirema/blob/master/Data/pexma2019.csv)|||
+[2019][]|dog2018.248, dog2018.246|(31/12/2018), (27/12/2018)|[2019.04.15](https://github.com/galirema/galirema/blob/master/Data/pexma2019.csv)|[2019.02.19V1.3](http://www.galiciamarineira.info/content/planes-general-y-espec%C3%ADficos-2019)|[2019-03-08v1.5](https://galirema.wikia.org/es/wiki/PexmaA2019)|
 [2018][]|dog2017.246|(29/12/2017)|[2018.05.16](https://github.com/galirema/galirema/blob/master/Data/pexma2018.csv)|||
 [2017][]|dog2016.249|(30/12/2016)|[2017.10.18](https://github.com/galirema/galirema/blob/master/Data/pexma2017.csv)|||
 [2016][]|dog2015.248|(30/12/2015)||||
